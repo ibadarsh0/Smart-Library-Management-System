@@ -144,10 +144,7 @@ The application validates:
 Clone the repository using:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/smart-library-management-java.git
-```
-
-Replace `YOUR-USERNAME` with the GitHub username of the repository owner.
+git clone https://github.com/ibadarsh0/Smart-Library-Management-System.git
 
 Move into the project directory:
 
