@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart Library Management System
 
 A command-line based Library Management System developed using Core Java. The application allows users to manage books, register students, issue and return books, search records, sort books, view library statistics, and save data using local text files.
